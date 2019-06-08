@@ -23,7 +23,7 @@ Los siguientes premios son por dia, si no entramos al juego ese dia, lo perdemos
 
 ## Bonus rewards
 
-Cada vez que sale un bonus podemos ganar:
+Nos activan el bonus como "agradecimiento" por pagar en el juego. Cada vez que sale un bonus podemos ganar:
 
 - 1 Command Point
 - 100 Hero Points
