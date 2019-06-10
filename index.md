@@ -6,7 +6,7 @@
 
 ### Indice
 
-[VIP rewards](/vip)
+[VIP rewards](/mpq/vip)
 
 Primero, leer bastante [Marvel Puzzle Quest en fandom](https://marvelpuzzlequest.fandom.com)
 
