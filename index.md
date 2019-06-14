@@ -13,6 +13,7 @@
   - [Deadpool Daily Quest](/mpq/modes/ddq)
 - [Tokens](/mpq/tokens)
 - [VIP rewards](/mpq/vip)
+- [Equipos](/mpq/teams)
 
 Primero, leer bastante [Marvel Puzzle Quest en fandom](https://marvelpuzzlequest.fandom.com)
 
