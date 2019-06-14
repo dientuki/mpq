@@ -7,10 +7,10 @@
 ### Indice
 
 - Modos de juego:
--- [Prologo](/mpq/modes/prologue/)
--- [Historia](/mpq/modes/history/)
--- [Versus](/mpq/modes/versus/)
--- [Deadpool Daily Quest](/mpq/modes/ddq)
+* [Prologo](/mpq/modes/prologue/)
+* [Historia](/mpq/modes/history/)
+* [Versus](/mpq/modes/versus/)
+* [Deadpool Daily Quest](/mpq/modes/ddq)
 - [Tokens](/mpq/tokens)
 - [VIP rewards](/mpq/vip)
 
@@ -63,7 +63,3 @@ Tener un nivel cuatro, tres y dos, cuando tocan esos personajes te permite ganar
 > taco token (1000HP, 12x250HP, y muchas mas cosas)
 
 Cuarto paso: Jugar mucho... ahora ¿que jugar?
-
-Modo Story:
-
-> 
