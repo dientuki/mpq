@@ -6,20 +6,18 @@
 
 ### Indice
 
-[VIP rewards](/mpq/vip)
+- Modos de juego:
+-- [Prologo](/mpq/modes/prologue/)
+-- [Historia](/mpq/modes/history/)
+-- [Versus](/mpq/modes/versus/)
+-- [Deadpool Daily Quest](/mpq/modes/ddq)
+- [Tokens](/mpq/tokens)
+- [VIP rewards](/mpq/vip)
 
 Primero, leer bastante [Marvel Puzzle Quest en fandom](https://marvelpuzzlequest.fandom.com)
 
 Super Tip:
 > NO ABRIR SOBRES: Nunca, sino tienes lugar o estas lejos de tener uno, no lo abras, resiste la tentacion.
-
-Entender los tipos de sobres y que puede traer cada uno:
-- Standard: &#9733;, &#9733;&#9733; y &#9733;&#9733;&#9733; cuando toca uno &#9733;&#9733;&#9733; da uno de bonus siempre, pero la posibilidad de &#9733;&#9733;&#9733; es bajisima.
-- Elite: &#9733;&#9733; y &#9733;&#9733;&#9733;
-- Heroic: &#9733;&#9733;, &#9733;&#9733;&#9733; y &#9733;&#9733;&#9733;&#9733;
-- Latest Legends: &#9733;&#9733;&#9733;&#9733; y &#9733;&#9733;&#9733;&#9733;&#9733; (pero los ultimos 3 personajes de 5 estrellas en agregarse)
-- Classic Legends: &#9733;&#9733;&#9733;&#9733; y &#9733;&#9733;&#9733;&#9733;&#9733; (todos los 5 estrellas menos los ultimos 3 en agregarse)
-
 
 Primer paso: Jugar el modo prologo y conseguir todos los HP de ahi
 Segundo paso: Conseguir lo mas rapido todos los &#9733;&#9733; del juego.
@@ -67,43 +65,5 @@ Tener un nivel cuatro, tres y dos, cuando tocan esos personajes te permite ganar
 Cuarto paso: Jugar mucho... ahora ¿que jugar?
 
 Modo Story:
-Son eventos que se necesitan 4 personajes (uno de cada nivel) en especial para poder llegar con muchos puntos en el progress
+
 > 
-
-
-
-You can use the [editor on GitHub](https://github.com/dientuki/mpq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dientuki/mpq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
