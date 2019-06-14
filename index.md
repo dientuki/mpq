@@ -7,10 +7,10 @@
 ### Indice
 
 - Modos de juego:
-* [Prologos](/mpq/modes/prologue/)
-* [Historia](/mpq/modes/history/)
-* [Versus](/mpq/modes/versus/)
-* [Deadpool Daily Quest](/mpq/modes/ddq)
+  - [Prologos](/mpq/modes/prologue/)
+  - [Historia](/mpq/modes/history/)
+  - [Versus](/mpq/modes/versus/)
+  - [Deadpool Daily Quest](/mpq/modes/ddq)
 - [Tokens](/mpq/tokens)
 - [VIP rewards](/mpq/vip)
 
