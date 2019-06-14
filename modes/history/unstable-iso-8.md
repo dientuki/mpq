@@ -38,27 +38,28 @@
 | 74500 |   |   |   |   |   |   |   |          1500 Iso-8         |   |
 | 77500 |   |   |   |   |   |   |   |      25 Command Points      |   |
 
-## Cosmic Chaos
+## Unstable Iso-8
 
-| Mision                    | Points | Rewards         |           |               |                |               |                 |
-|---------------------------|-------:|-----------------|-----------|---------------|----------------|---------------|-----------------|
-| Unstable Iso-8            | 200    | Standard Token  | 100 Iso-8 | 100 Iso-8     | 100 Iso-8      | 200 Iso-8     | 140 Iso-8       |
+| Mision              | Points | Rewards        |           |           |           |           |           |
+|---------------------|-------:|----------------|-----------|-----------|-----------|-----------|-----------|
+| Unstable Iso-8      |    200 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8 | 200 Iso-8 | 140 Iso-8 |
+| BullEye             |    130 | 200 Iso-8      |           |           |           |           |           |
+| Relationship Issues |    130 | 200 Iso-8      |           |           |           |           |           |
 
-## Mayhem in Manhattan
+## Arctic Circle
 
-| Mision                    | Points | Rewards         |           |               |                |               |                 |
-|---------------------------|-------:|-----------------|-----------|---------------|----------------|---------------|-----------------|
-| Shattered SHILED          | 100    | 200 Iso-8       |           |               |                |               |                 |
-| Angry Avengers            | 220    | Standard Token  | 100 Iso-8 | 100 Iso-8     | 100 Iso-8      | 200 Iso-8     | 140 Iso-8       |
-| Three Puppeteers          | 440    | Event Token     | 500 Iso-8 | 350 Red Iso-8 | 250 Iso-8      |               |                 |
-| Dark Forces               | 250    | Standard Token  | 100 Iso-8 | 250 Iso-8     | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8       |
-| All Heroes, Big and Small | 310    | Standard Token  | 100 Iso-8 | 250 Iso-8     | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8       |
-| H@K3D!                    | 340    | 1 Command Point | 500 Iso-8 | 250 Iso-8     | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8       |
-| Atop Avenger Tower        | 1000   | 500 Iso-8       |           |               |                |               |                 |
-| Uncommon Character        | 370    | Standard Token  | 100 Iso-8 | 100 Iso-8     | 100 Iso-8      | 140 Iso-8     | 200 Iso-8       |
-| Rare Character            | 400    | Standard Token  | 100 Iso-8 | 250 Iso-8     | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8       |
-| Legendary Character       | 430    | 1 Command Point | 500 Iso-8 | 250 Iso-8     | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8       |
-| Epic Character            | 475    | Event Token     | 500 Iso-8 | 250 Iso-8     | Standard Token | 140 Iso-8     | 2 Command Point |
+| Mision                | Points | Rewards        |           |           |                |               |           |
+|-----------------------|-------:|----------------|-----------|-----------|----------------|---------------|-----------|
+| Cold Combat           |    102 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| Greenland Ops         |    162 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| Winter Soldiers       |    222 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Red Iso-8 On the Snow |    282 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Too Cold for Confort  |    312 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Freeze, Buddy!        |    372 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Uncommon Character    |    280 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 140 Iso-8     | 200 Iso-8 |
+| Rare Character        |    310 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Legendary Character   |    340 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Epic Character        |    385 | Event Token    | 500 Iso-8 | 250 Iso-8 | Standard Token | 140 Iso-8     | 2 CP      |
 
 ## Savage Beasts
 
