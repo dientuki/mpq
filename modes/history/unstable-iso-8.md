@@ -45,6 +45,8 @@
 | Unstable Iso-8      |    200 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8 | 200 Iso-8 | 140 Iso-8 |
 | BullEye             |    130 | 200 Iso-8      |           |           |           |           |           |
 | Relationship Issues |    130 | 200 Iso-8      |           |           |           |           |           |
+| Ms. Marvel          |    130 | 200 Iso-8      |           |           |           |           |           |
+| Daken and Yelena    |    130 | 200 Iso-8      |           |           |           |           |           |
 
 ## Arctic Circle
 
@@ -61,7 +63,49 @@
 | Legendary Character   |    340 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
 | Epic Character        |    385 | Event Token    | 500 Iso-8 | 250 Iso-8 | Standard Token | 140 Iso-8     | 2 CP      |
 
-## Savage Beasts
+### Totales:
+
+- Minimo: 13835
+- 8 Standard Token
+- 1 Event Token
+- 13 100 Iso-8
+- 12 140 Iso-8
+- 3 200 Iso-8
+- 7 250 Iso-8
+- 7 500 Iso-8
+- 5 350 Red Iso-8
+- 4 CP
+
+## Mediterranean (48hs)
+
+| Mision              | Points | Rewards        |           |           |                |               |           |
+|---------------------|-------:|----------------|-----------|-----------|----------------|---------------|-----------|
+| Iso-8 Hoarders      |    192 | 200 Iso-8      |           |           |                |               |           |
+| Heist in Spain      |    195 | 200 Iso-8      |           |           |                |               |           |
+| Maggia in Greece    |    195 | 200 Iso-8      |           |           |                |               |           |
+| Coastal Piracy      |    150 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| Trouble in Paradise |    240 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| Seaside Caper       |    330 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Dockside Deal       |    420 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Crossing Borders    |    468 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Nights in Tunisia   |    555 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Uncommon Character  |    420 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 140 Iso-8     | 200 Iso-8 |
+| Rare Character      |    465 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Legendary Character |    510 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Epic Character      |    578 | Event Token    | 500 Iso-8 | 250 Iso-8 | Standard Token | 140 Iso-8     | 2 CP      |
+
+### Totales:
+
+- Minimo: 19782
+- 8 Standard Token
+- 1 Event Token
+- 13 100 Iso-8
+- 12 140 Iso-8
+- 6 200 Iso-8
+- 7 250 Iso-8
+- 7 500 Iso-8
+- 5 350 Red Iso-8
+- 4 CP
 
 ## Visions of Danger
 
