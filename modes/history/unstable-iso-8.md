@@ -47,6 +47,9 @@
 | Relationship Issues |    130 | 200 Iso-8      |           |           |           |           |           |
 | Ms. Marvel          |    130 | 200 Iso-8      |           |           |           |           |           |
 | Daken and Yelena    |    130 | 200 Iso-8      |           |           |           |           |           |
+| Switching Teams     |    130 | 200 Iso-8      |           |           |           |           |           |
+| Follow up Visit     |    130 | 200 Iso-8      |           |           |           |           |           |
+| Moonstone           |    130 | 200 Iso-8      |           |           |           |           |           |
 
 ## Arctic Circle
 
@@ -107,6 +110,31 @@
 - 5 350 Red Iso-8
 - 4 CP
 
-## Visions of Danger
+## The Americas
 
-## Ticket to knowwhere
+| Mision               | Points | Rewards        |           |           |                |               |           |
+|----------------------|-------:|----------------|-----------|-----------|----------------|---------------|-----------|
+| Gulf Transport       |    210 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| Government Raid      |    324 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 200 Iso-8     | 140 Iso-8 |
+| West Coast Smugglers |    444 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Iso-8 Heist          |    564 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Battle in Brazil     |    624 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Stolen Goods         |    744 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Stateside            |    260 | 500 Iso-8      |           |           |                |               |           |
+| Uncommon Character   |    560 | Standard Token | 100 Iso-8 | 100 Iso-8 | 100 Iso-8      | 140 Iso-8     | 200 Iso-8 |
+| Rare Character       |    620 | Standard Token | 100 Iso-8 | 250 Iso-8 | 500 Iso-8      | 350 Red Iso-8 | 140 Iso-8 |
+| Legendary Character  |    680 | 1 CP           | 500 Iso-8 | 250 Iso-8 | 350 Red Iso-8  | 140 Iso-8     | 140 Iso-8 |
+| Epic Character       |    770 | Event Token    | 500 Iso-8 | 250 Iso-8 | Standard Token | 140 Iso-8     | 2 CP      |
+
+### Totales:
+
+- Minimo: 
+- 8 Standard Token
+- 1 Event Token
+- 13 100 Iso-8
+- 12 140 Iso-8
+- 3 200 Iso-8
+- 7 250 Iso-8
+- 8 500 Iso-8
+- 5 350 Red Iso-8
+- 4 CP
