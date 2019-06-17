@@ -7,6 +7,7 @@ Son eventos que se necesitan 4 personajes (uno de cada nivel, menos el comun) en
 - Hearts of darkness
 - [Cosmic Chaos](/mpq/modes/history/cosmic-chaos)
 - [Unstable Iso-8](/mpq/modes/history/unstable-iso-8)
+- [Meet Rocket & Groot](/mpq/modes/history/meet-rocket-groot)
 
 ## Event Token
 
