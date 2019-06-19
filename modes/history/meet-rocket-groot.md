@@ -118,3 +118,37 @@
 |   47500 |       6500 Red Iso-8      |       9725 Red Iso-8      |      12800 Red Iso-8      |
 |   49500 |         1250 Iso-8        |         1500 Iso-8        |         1500 Iso-8        |
 |   52000 |           22 CP           |           25 CP           |           30 CP           |
+
+## Welcome to Earth
+
+| Misions                   | Points |     Rewards    |           |           |                |               |           |
+|---------------------------|-------:|:--------------:|:---------:|:---------:|:--------------:|:-------------:|:---------:|
+| Intergalactic Vacation    |    194 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Sight Seeing              |    144 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Critical Enterprice       |    184 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| King of New York          |    225 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Disorganized Crime        |    264 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| A tree Groots in New York |    304 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| A Rocket and a Hard Place |    344 |      1 CP      | 500 Iso-8 | 250 Iso-8 |  350 Red Iso-8 |   140 Iso-8   | 140 Iso-8 |
+| Uncommon Character        |    274 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   140 Iso-8   | 200 Iso-8 |
+| Rare Character            |    304 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| Legendary Character       |    334 |      1 CP      | 500 Iso-8 | 250 Iso-8 |  350 Red Iso-8 |   140 Iso-8   | 140 Iso-8 |
+| Epic Character            |    379 |   Event Token  | 500 Iso-8 | 250 Iso-8 | Standard Token |   140 Iso-8   |    2 CP   |
+
+## Luck be a Lady
+
+| Mision                  | Points |     Rewards    |           |           |                |               |           |
+|-------------------------|-------:|:--------------:|:---------:|:---------:|:--------------:|:-------------:|:---------:|
+| Mysterious Stranger     |    200 |    200 Iso-8   |           |           |                |               |           |
+| Opportunity             |    206 |    200 Iso-8   |           |           |                |               |           |
+| Mutated Security        |    206 |    200 Iso-8   |           |           |                |               |           |
+| Aggravated abominations |    203 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Sidekickin it           |    266 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Cowardly Escape         |    329 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   200 Iso-8   | 140 Iso-8 |
+| Cover her getaway       |    392 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| Batting Cleanup         |    455 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| Reinforced Steel        |    518 |      1 CP      | 500 Iso-8 | 250 Iso-8 |  350 Red Iso-8 |   140 Iso-8   | 140 Iso-8 |
+| Uncommon Character      |    411 | Standard Token | 100 Iso-8 | 100 Iso-8 |    100 Iso-8   |   140 Iso-8   | 200 Iso-8 |
+| Rare Character          |    456 | Standard Token | 100 Iso-8 | 250 Iso-8 |    500 Iso-8   | 350 Red Iso-8 | 140 Iso-8 |
+| Legendary Character     |    501 |      1 CP      | 500 Iso-8 | 250 Iso-8 |  350 Red Iso-8 |   140 Iso-8   | 140 Iso-8 |
+| Epic Character          |    569 |   Event Token  | 500 Iso-8 | 250 Iso-8 | Standard Token |   140 Iso-8   |    2 CP   |
