@@ -11,6 +11,7 @@
   - [Historia](/mpq/modes/history/)
   - [Versus](/mpq/modes/versus/)
   - [Deadpool Daily Quest](/mpq/modes/ddq)
+  - [S.H.I.E.L.D Training](/mpq/modes/shield-training)
 - [Tokens](/mpq/tokens)
 - [VIP rewards](/mpq/vip)
 - [Equipos](/mpq/teams)
